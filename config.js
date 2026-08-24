@@ -1,4 +1,4 @@
 window.CLUB_CONFIG = {
-  SUPABASE_URL: "YOUR_SUPABASE_PROJECT_URL",
-  SUPABASE_ANON_KEY: "YOUR_SUPABASE_PUBLISHABLE_KEY"
+  SUPABASE_URL: "https://wpstltltcevcnokmajsw.supabase.co",
+  SUPABASE_ANON_KEY: "sb_publishable_SZrWCisMZ7gP-kqsSNI8_g_juYAkWWo"
 };
