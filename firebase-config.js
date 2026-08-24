@@ -1,3 +1,4 @@
+// Firebase web configuration — safe to use in a browser app.
 window.CLUB_FIREBASE_CONFIG = {
   apiKey: "AIzaSyAb4t3-BRSN_pL6H-uFKK1AwXb2VQA0qo4",
   authDomain: "central-coast-board-games.firebaseapp.com",
